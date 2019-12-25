@@ -3,6 +3,8 @@
 Web Application Security
 =========================
 
+References: https://www.owasp.org/images/7/72/OWASP_Top_10-2017_%28en%29.pdf.pdf
+
 OWASP (Open Web Application Security Project): 2016
 
 Top 10: Security Vuneralbilities
